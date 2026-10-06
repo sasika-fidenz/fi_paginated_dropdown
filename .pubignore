@@ -1,0 +1,13 @@
+# Keep the published package small: ship the example's code, not the
+# generated platform projects.
+example/android/
+example/ios/
+example/linux/
+example/macos/
+example/windows/
+example/web/
+example/build/
+build/
+.dart_tool/
+.idea/
+*.iml

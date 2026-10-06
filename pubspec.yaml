@@ -4,10 +4,16 @@ version: 0.1.0
 homepage: https://github.com/sasika-fidenz/fi_paginated_dropdown
 repository: https://github.com/sasika-fidenz/fi_paginated_dropdown
 issue_tracker: https://github.com/sasika-fidenz/fi_paginated_dropdown/issues
+topics:
+  - dropdown
+  - pagination
+  - search
+  - form
+  - widget
 
 environment:
-  sdk: ">=3.4.0 <4.0.0"
-  flutter: ">=3.22.0"
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
 
 dependencies:
   flutter:

@@ -293,3 +293,7 @@ cd example && flutter run
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+---
+
+<p align="center">Made with ❤️ by <a href="https://fidenz.com">Fidenz Technologies</a></p>
