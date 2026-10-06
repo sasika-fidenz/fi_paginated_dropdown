@@ -1,3 +1,8 @@
+## 0.1.1
+
+* README: install from pub.dev with a version constraint (`^0.1.1`), pub.dev
+  badge, and GitHub install pinned to a release tag instead of `main`.
+
 ## 0.1.0
 
 * Initial release.

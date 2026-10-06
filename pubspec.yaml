@@ -1,6 +1,6 @@
 name: fi_paginated_dropdown
 description: "A searchable, paginated dropdown for Flutter. Paginate a local list (offline) or load pages from any API (online) with debounced search."
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/sasika-fidenz/fi_paginated_dropdown
 repository: https://github.com/sasika-fidenz/fi_paginated_dropdown
 issue_tracker: https://github.com/sasika-fidenz/fi_paginated_dropdown/issues

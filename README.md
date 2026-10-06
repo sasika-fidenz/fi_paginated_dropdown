@@ -24,10 +24,10 @@ or add it to `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  fi_paginated_dropdown: ^0.1.0
+  fi_paginated_dropdown: ^0.1.1
 ```
 
-`^0.1.0` accepts any compatible `0.1.x` release. See the
+`^0.1.1` accepts any compatible `0.1.x` release from 0.1.1 up. See the
 [changelog](CHANGELOG.md) for what changed in each version.
 
 <details>
@@ -40,7 +40,7 @@ dependencies:
   fi_paginated_dropdown:
     git:
       url: https://github.com/sasika-fidenz/fi_paginated_dropdown.git
-      ref: v0.1.0
+      ref: v0.1.1
 ```
 
 </details>
